@@ -1,5 +1,4 @@
-We specialize in creating exceptional web designs that not only captivate users visually but also provide a seamless user experience. Our team is well-versed in modern design principles and understands the importance of creating intuitive interfaces that enhance usability for end users.
-In addition to our expertise in web design, we are proficient in Flask app development. Flask is a powerful Python framework that allows us to build robust and scalable applications.
-Whether you need a simple web app or a complex enterprise solution, we have the skills and experience to deliver high-quality Flask applications tailored to your specific requirements.
-To further enhance the user experience and streamline development processes, we integrate GitHub actions into our projects. GitHub actions are automated workflows that help us automate tasks and improve collaboration within development teams. By leveraging GitHub actions, we can continuously integrate and deploy your applications, ensuring faster turnaround times and reducing the chances of introducing bugs or errors.
-Our team is proficient in setting up GitHub actions to perform various tasks, such as running automated tests, building and deploying applications, and integrating with other tools in your development workflow. This not only saves time and effort but also ensures that your applications are always up-to-date and functioning optimally.
+# Welcome to Engineering Change
+
+### Thank you for atopping by, we are just wetting up please excuse us as we prepare more coding projects
+
