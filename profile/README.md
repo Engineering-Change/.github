@@ -5,3 +5,5 @@
 >excuse us as we prepare more coding projects
 ![879dca_dbbbcbf7e6564025a4afb533a1e6d622~mv2](https://github.com/Engineering-Change/.github/assets/31228460/ef7604e4-5fe3-4f9f-81b1-206acf1844c6)
 
+# About 
+E & C Technology Services Ltd. specializes in captivating web designs and seamless user experiences. We integrate GitHub actions to automate tasks, enhance collaboration, and ensure faster turnaround times. Our team prioritizes usability, performance, and reliability in web design, software design, development and services. Contact us to leverage our expertise in delivering exceptional web experiences.
