@@ -6,7 +6,7 @@
 <img src="https://github.com/Engineering-Change/.github/assets/31228460/ef7604e4-5fe3-4f9f-81b1-206acf1844c6" alt="Image" width="700px">
 
 # About 
-EC, Technology Services. specializes in captivating web designs and delivering seamless user experiences. 
+>EC, Technology Services. specializes in captivating web designs and delivering seamless user experiences. 
 We offer a wide range of services in software engineering, including web design, software design, development, 
 and testing. Our team prioritizes usability, performance, and reliability in all aspects of our work. 
 By integrating GitHub actions to automate tasks, enhance collaboration, and reduce turnaround times, 
