@@ -1,4 +1,4 @@
-# Welcome to Engineering Change
+# Welcome to E & C, Technology Services ltd.
 
 >Thank you for stopping by, we are just setting up please
 >excuse us as we prepare more coding projects
