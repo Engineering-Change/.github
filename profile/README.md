@@ -12,3 +12,5 @@ and testing. Our team prioritizes usability, performance, and reliability in all
 By integrating GitHub actions to automate tasks, enhance collaboration, and reduce turnaround times, 
 we ensure efficient project delivery. Contact us to leverage our expertise in creating exceptional web 
 experiences and explore our comprehensive software engineering services.
+
+Created with ❤️ by [jermyiah](https://github.com/jge162)
